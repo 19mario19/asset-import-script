@@ -1,0 +1,1 @@
+node importAllImages.js
