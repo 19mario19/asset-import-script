@@ -1,1 +1,1 @@
-node importAllImages.js
+node script.js
